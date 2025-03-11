@@ -20,7 +20,7 @@ The protagonist starts their journey on a flight back home when disaster strikes
 - **Random Events:** Unpredictable challenges may arise, testing the player's adaptability.  
 
 ### Multi-Player  
-The game includes multiplayer elements, though specific details are yet to be defined.
+The game includes multiplayer elements, as the player can choose from a variety of different characters that ultimately impact the game itself
 
 ## Rules  
 - Players cannot quit a challenge midway.  
